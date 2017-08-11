@@ -38,7 +38,7 @@
 
  `如果配置菜单必须把小程序初始页面配成菜单list其中一个，否则无法显示菜单！！`
 
-<img width="50%" src="https://ks3-cn-beijing.ksyun.com/static.toptest.yidianzixun.com/public/file/1502440109024/88DB58C9-6F3A-493C-B9D5-1F3C745D1CA2.png">
+<img width="50%" src="https://ks3-cn-beijing.ksyun.com/static.toptest.yidianzixun.com/public/file/1502464076072/88DB58C9-6F3A-493C-B9D5-1F3C745D1CA2.png">
 
 ## 逻辑层
 
