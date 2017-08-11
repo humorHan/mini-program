@@ -77,8 +77,9 @@
 | wx:if <br/> wx:elif <br/>  wx:else <br/> wx:if vs hidden | 1. 条件渲染 <br/> 2. wx:if 有更高的切换消耗而 hidden 有更高的初始渲染消耗 | | 1. `<view wx:if="{{condition}}"> True </view>`|
 | block wx:if | 方便整体控制 | | |
 |template | 1. 定义代码片段 <br/> 2. name属性定义模板名字<br/> 3. is属性声明需要的使用的模板并需要传入data <br/> 4. 模板有自己的作用域，只能使用data传入数据 | | |
-| import和include | 1. import引用目前文件定义的模板 <br/> 2. include可以将目标文件除了<template/>的整个代码引入，相当于是拷贝到include位置 | 1. `import 有作用域的概念，即只会 import 目标文件中定义的 template，而不会 import 目标文件 import 的 template。`| |
-| 事件 | 1. touchstart、touchmove、touchcancel、touchend、、taplongtap<br/> 2. 如无特殊说明，当组件触发事件时，逻辑层绑定该事件的处理函数会收到一个事件对象。(说白了，就是绑定事件js位置会带一个对象，其中包括很多属性) |bind事件绑定不会阻止冒泡事件向上冒泡，catch事件绑定可以阻止冒泡事件向上冒泡。|  1. `bindtap` <br/> 2. ` catchtouchstart` |
+| import和include | 1. import引用目前文件定义的模板 <br/> 2. include可以将目标文件除了<template/>的整个代码引入，相当于是拷贝到include位置  |  1. `import 有作用域的概念，即只会 import 目标文件中定义的 template，而不会 import 目标文件 import 的 template。` |  |
+| 事件 | 1. touchstart、touchmove、touchcancel、touchend、、taplongtap <br/> 2. 如无特殊说明，当组件触发事件时，逻辑层绑定该事件的处理函数会收到一个事件对象。(说白了，就是绑定事件js位置会带一个对象，其中包括很多属性) | bind事件绑定不会阻止冒泡事件向上冒泡，catch事件绑定可以阻止冒泡事件向上冒泡。|  1. `bindtap` <br/> 2. ` catchtouchstart` |
+
 
 ### WXSS和组件等持续更新中...
 
