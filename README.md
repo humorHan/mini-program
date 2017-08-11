@@ -11,10 +11,10 @@
 
    [windows 64](https://servicewechat.com/wxa-dev-logic/download_redirect?type=x64&from=mpwiki)
 ## 通过开发者工具创建小程序
-<img src="https://mp.weixin.qq.com/debug/wxadoc/dev/image/new_project.png?t=2017727">
+<img width="50%" src="https://mp.weixin.qq.com/debug/wxadoc/dev/image/new_project.png?t=2017727">
 
 ## 文件结构
-<img src="https://ks3-cn-beijing.ksyun.com/static.toptest.yidianzixun.com/public/file/1502438902721/2324F974-6980-4103-A1F3-762517A441DA.png">
+<img width="50%" src="https://ks3-cn-beijing.ksyun.com/static.toptest.yidianzixun.com/public/file/1502438902721/2324F974-6980-4103-A1F3-762517A441DA.png">
 
 小程序有全局的配置、样式、逻辑也有每个页面自己的配置、样式、逻辑文件
 
@@ -38,7 +38,7 @@
 
  `如果配置菜单必须把小程序初始页面配成菜单list其中一个，否则无法显示菜单！！`
 
-<img src="https://ks3-cn-beijing.ksyun.com/static.toptest.yidianzixun.com/public/file/1502440109024/88DB58C9-6F3A-493C-B9D5-1F3C745D1CA2.png">
+<img width="50%" src="https://ks3-cn-beijing.ksyun.com/static.toptest.yidianzixun.com/public/file/1502440109024/88DB58C9-6F3A-493C-B9D5-1F3C745D1CA2.png">
 
 ## 逻辑层
 
